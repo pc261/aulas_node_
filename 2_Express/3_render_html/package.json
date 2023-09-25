@@ -1,12 +1,13 @@
 {
-  "name": "1_instalacao",
+  "name": "3_render_html",
   "version": "1.0.0",
-  "description": "estou aprendendo node com express",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Marcio Marçal",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
